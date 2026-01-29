@@ -14,7 +14,7 @@ export const siteConfig = {
   },
 
   aboutMe:
-    "Motivated and adaptable student pursuing a B.S. in Electronic Systems Engineering Technology with a minor in Cybersecurity at Texas A&M. CompTIA Security+ certified with hands-on experience in SOC automation, phishing analysis, and ICS/OT research. Passionate about network defense, incident response, and building secure systems. Currently seeking an internship to apply classroom learning to real-world environments.",
+    "Security+ certified student focused on SOC operations, phishing analysis, ICS/OT security, and network security. Seeking an internship or entry-level full-time cybersecurity role to build hands-on experience and contribute to strengthening organizational defenses.",
 
   skills: [
     // Programming
