@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "Jorge Ladron de Guevara",
   title: "Cybersecurity Student | Texas A&M University",
   description:
-    "Security+ certified student focused on SOC operations, phishing analysis, and ICS/OT security. Seeking a cybersecurity internship to build hands-on experience and help strengthen defenses.",
+    "Security+ certified student focused on SOC operations, phishing analysis, ICS/OT security, and network security. Seeking an internship or entry-level full-time cybersecurity role to build hands-on experience and contribute to strengthening organizational defenses.",
 
   accentColor: "#1d4ed8",
 
